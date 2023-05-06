@@ -28,7 +28,7 @@ def parse_device_instruction(message):
     
     perform the following:
 
-    1. Extract <condition> and <action>. If no condition, set it to None.
+    1. Extract <condition> and <action>. If no condition, set it to null.
     2. Rewrite the extracted <condition> and <action> so that any of the user's personal and possessive pronouns are replaced with "the user".
     3. Create a friendly and enthusiastic text message to respond to the user. Replace any possessive references to the user with the corresponding second
        person possessive pronoun. References to the home automation system are to be in the first person.
