@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains code to accompany the [How To Build Chatbots With Advanced Conditional Statement Understanding]() blog post on Medium.
+This repo contains code to accompany the [How To Build Chatbots With Advanced Conditional Statement Understanding](https://medium.com/@_init_/how-to-build-chatbots-with-advanced-conditional-statement-understanding-9ff38b57e319) blog post on Medium.
 
 # Usage
 
